@@ -1,0 +1,7 @@
+=========== Tax Report for Grahya ===============
+Income: ₹200000.0
+Expenses: ₹34567.0
+Taxable Income: ₹165433.0
+Tax Paid (INR): ₹0
+Tax Paid (USD): $0.0
+===============================
